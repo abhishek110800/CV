@@ -1,0 +1,13 @@
+body{
+    background-color:powderblue;
+}
+hr{
+    border-style: none;
+    border-top-style:dashed;
+    border-color: grey;
+border-width: 2px;
+width:5%;
+}
+strong{
+    color: red;
+}
